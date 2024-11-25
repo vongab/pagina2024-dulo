@@ -1,13 +1,13 @@
-body {backgroud-color: #3efaf7; text-align: justify; font-size:18px;}
-h1 {text-align: center;background-color:#2FBDBA; color:#17313B;}
-h3 {text-align: justify; color: #1f7a79;}
-b{color: blue; font-size:18px;}
-i {color: blue; font-size:18px;}
-header, footer{background-color: #499CBA; color: #ceeffc; text-align: center; font-size: 20px; border: black solid 2px;}
-main {backgroud-color: #8ddefc;}
+body {backgroud-color: #fa3ec2; text-align: justify; font-size:18px;}
+h1 {text-align: center;background-color:#c2e4e3; color:#1dbefd;}
+h3 {text-align: justify; color: #76e6e4;}
+b{color: rgb(155, 155, 209); font-size:18px;}
+i {color: rgb(91, 91, 138); font-size:18px;}
+header, footer{background-color: #1eb7ee; color: #b1d15ba8; text-align: center; font-size: 20px; border: rgb(238, 165, 82) solid 2px;}
+main {backgroud-color: #0f89b6;}
 nav li {text-transform: uppercase;list-style: none; display: inline; margin-left: 10px; text-align: right;}
-nav a {color: rgb(119, 19, 250); text-decoration: none; text-align: right;}
-.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px;}
+nav a {color: rgb(161, 110, 228); text-decoration: none; text-align: right;}
+.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border: rgb(223, 49, 49) solid 2px; padding: 10px; margin: 10px;}
 #TITULOIMAGEM {width: 5% ; height: 5%;}
 #lista01 {display:block; text-align: center;}
 #lista02 {display: inline-block;}
